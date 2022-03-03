@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2022-02-03
+- Fixed layout issue when no results are found 
+
 ## [1.1.1] - 2021-09-10
 - Updated to be compatible with the new CodyFrame 3 grid system
 
